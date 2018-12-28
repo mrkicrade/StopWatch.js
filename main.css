@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.stopwatch{
+	width: 500px;
+    height: 80px;
+    margin: 50px auto 10px;
+    box-shadow: 0 0 8px;
+    background: aqua;
+}
+
+.min, .sec, .mils{
+	float: left;
+	margin-left: 55px;
+	margin-top: 10px;
+	font-size: 24px;
+	text-align: center;
+}
+
+.buttons {
+	text-align: center;
+}
+
+.btn{
+	width: 150px;	
+}
